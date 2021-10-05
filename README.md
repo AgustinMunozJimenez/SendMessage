@@ -12,4 +12,5 @@ En este ejercicio hemos practicado todo el contenido de la sección [Entorno de 
 * Adjuntar link de wordpress. 
 <br>
 Imagen de la primera Activity de mi aplicacion.
-[](img/SendMessageActivity.png)
+
+![Imagen de la primera Activity de mi aplicacion](img/SendMessageActivity.png)
